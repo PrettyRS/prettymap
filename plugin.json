@@ -1,0 +1,9 @@
+{
+  "name": "PrettyMap",
+  "description": "A reusable, frameless RuneScape world-map component for plugin UIs.",
+  "version": "1.0.0",
+  "requiredDependencies": [],
+  "optionalDependencies": [],
+  "requiredPermissions": [],
+  "optionalPermissions": []
+}
